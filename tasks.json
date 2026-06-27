@@ -1,0 +1,30 @@
+{
+  "projectName": "Team Project Tracker",
+  "version": "1.0.0",
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "title": "Setup Cross-Platform Validation Scripts",
+      "assignee": "Alice (Linux User)",
+      "status": "Completed",
+      "priority": "High",
+      "dueDate": "2026-06-25"
+    },
+    {
+      "id": "TASK-002",
+      "title": "Create GitHub Repository and Branch Protection Rules",
+      "assignee": "Bob (Windows User)",
+      "status": "In Progress",
+      "priority": "High",
+      "dueDate": "2026-06-28"
+    },
+    {
+      "id": "TASK-003",
+      "title": "Write Project Documentation in README.md",
+      "assignee": "Charlie (Technical Writer)",
+      "status": "Todo",
+      "priority": "Medium",
+      "dueDate": "2026-07-02"
+    }
+  ]
+}
